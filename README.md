@@ -4,12 +4,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me encanta aprender cosas nuevas y trabajar en proyectos interesantes. Actualmente estoy enfocado en mejorar mis habilidades en desarrollo web y software.
+Soy un desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me encanta aprender cosas nuevas y trabajar en proyectos interesantes. Actualmente estoy enfocado en mejorar mis habilidades en desarrollo web y software e infraestructura.
 
-- 🌱 Actualmente estoy aprendiendo: TypeScript, Docker y Clean Architecture.
 - 👯 Busco colaborar en: Proyectos open source.
 - 📫 Cómo contactarme: [asilvapusma@gmail.com] 
-- ⚡ Fun fact: ¡También me gusta el café y los videojuegos indie!
 
 ---
 
